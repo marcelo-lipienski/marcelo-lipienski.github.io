@@ -1,21 +1,21 @@
 ## Veja meu currículo e decida se sou o cara certo para sua empresa
 
-Você está procurando um desenvolvedor para sua empresa ou projeto? Então fica aqui comigo que eu vou contar um pouco de mim, das minhas experiências profissionais, projetos pessoais e ambições.
+**Você está procurando um desenvolvedor para sua empresa ou projeto?** Então fica aqui comigo que eu vou contar um pouco de mim, das minhas experiências profissionais, projetos pessoais e ambições.
 
 ### Quem é Marcelo Lipienski
 
 Que tal começar me apresentando? Pois é, me chamo Marcelo, tenho 31 anos e moro em Mococa/SP.
-Tudo que aprendi como desenvolvedor foi ou lendo documentações ou através de troca de experiências com outros desenvolvedores.
+Abaixo você confere as **informações mais relevantes** sobre mim.
 
 #### Competências comportamentais
 
-As minhas competências comportamentais que se destacam são:
+Competências comportamentais que se destacam:
 1 equilíbrio emocional
 2 criatividade
 3 empatia
 4 ética.
  
-As competências comportamentais que reconheço precisar desenvolver são:
+Competências comportamentais que reconheço precisar desenvolver:
 1 liderança
 2 comunicação.
 
@@ -27,38 +27,79 @@ As competências comportamentais que reconheço precisar desenvolver são:
 - análise, correção e preparação para migração de código legado
 - interfaces mobile-first.
 
-#### Hobbies
+#### Linguagens e ferramentas
+Algumas linguagens e ferramentas que tenho conhecimento suficiente para desenvolver um produto são:
+- PHP
+- Javascript / node
+- SQL / NoSQL
+- HTML5
+- Bootstrap
+- VueJS
+- Laravel, Zend Framework, Codeigniter
+- express
+- MySQL, MariaDB, Oracle, PostgreSQL, MongoDB
+- Docker.
 
-Alguns de meus hobbies são:
+#### Hobbies
 - ler sobre mercado financeiro
 - assistir filmes
 - cozinhar.
 
+### Experiências profissionais
 
-```markdown
-Syntax highlighted code block
+Agora que você já sabe um pouco sobre mim, que tal eu te contar sobre **minhas últimas experiências profissionais**?
 
-# Header 1
-## Header 2
-### Header 3
+#### Desenvolvedor web sênior em Focus Concursos - Maio de 2016 a Janeiro de 2017
+##### Principais atividades
+- análise de requisitos
+- desenvolvimento do ERP da empresa
+- desenvolvimento de funcionalidades para o ecommerce e plataforma de EAD
+- desenvolvimento de web-scraper para importação e tratamento de mais de um milhão de questão de concursos públicos.
 
-- Bulleted
-- List
+##### Tecnologias e ferramentas utilizadas
+- PHP
+- Laravel
+- MySQL
+- Amazon S3
+- Javascript / node
+- Ruby
+- Bootstrap
 
-1. Numbered
-2. List
+#### Desenvolvedor web sênior em WebGopher - Julho de 2014 a Dezembro de 2014
+##### Principais atividades
+- análise de requisitos
+- desenvolvimento e manutenção de CMS e ecommerce
+- definição e desenvolvimento de ferramentas de integração de estoque sob demanda.
 
-**Bold** and _Italic_ and `Code` text
+##### Tecnologias e ferramentas utilizadas
+- PHP
+- Silex
+- MySQL
+- Angular
+- Bootstrap
+- Javascript
 
-[Link](url) and ![Image](src)
-```
+#### Desenvolvedor web sênior em Alkantára Sites Inteligentes - Novembro de 2013 a Março de 2014
+##### Principais atividades
+- análise de requisitos
+- definiçao das tecnologias a serem utilizadas
+- desenvolvimento de um sistema ERP
+- orientação técnica ao resto da equipe de desenvolvimento
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+##### Tecnologias e ferramentas utilizadas
+- PHP
+- Zend Framework 2
+- PostgreSQL
+- Bootstrap
+- Javascript
+- Scrum
 
-### Jekyll Themes
+#### Desenvolvedor pleno em Softbox - Novembro de 2011 a Maio de 2012
+##### Principais atividades
+- desenvolvimento de frameworks PHP e Javascript próprios para sustentar a construção de outras aplicações
+- desenvolvimento de ecommerce
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marcelo-lipienski/marcelo-lipienski.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##### Tecnologias ferramentas utilizadas
+- PHP
+- Javascript
+- MySQL
