@@ -1,12 +1,39 @@
-## Welcome to GitHub Pages
+## Veja meu currículo e decida se sou o cara certo para sua empresa
 
-You can use the [editor on GitHub](https://github.com/marcelo-lipienski/marcelo-lipienski.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Você está procurando um desenvolvedor para sua empresa ou projeto? Então fica aqui comigo que eu vou contar um pouco de mim, das minhas experiências profissionais, projetos pessoais e ambições.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Quem é Marcelo Lipienski
 
-### Markdown
+Que tal começar me apresentando? Pois é, me chamo Marcelo, tenho 31 anos e moro em Mococa/SP.
+Tudo que aprendi como desenvolvedor foi ou lendo documentações ou através de troca de experiências com outros desenvolvedores.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Competências comportamentais
+
+As minhas competências comportamentais que se destacam são:
+1 equilíbrio emocional
+2 criatividade
+3 empatia
+4 ética.
+ 
+As competências comportamentais que reconheço precisar desenvolver são:
+1 liderança
+2 comunicação.
+
+#### Competências técnicas
+- SEO
+- microserviços
+- criação e consumo de apis
+- desenvolvimento full-stack
+- análise, correção e preparação para migração de código legado
+- interfaces mobile-first.
+
+#### Hobbies
+
+Alguns de meus hobbies são:
+- ler sobre mercado financeiro
+- assistir filmes
+- cozinhar.
+
 
 ```markdown
 Syntax highlighted code block
